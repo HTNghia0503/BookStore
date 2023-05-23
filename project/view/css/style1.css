@@ -1,0 +1,14 @@
+footer
+{
+    padding: 10px;
+    font-variant: small-caps;
+    text-align: end;
+    background-color: brown;
+}
+.sanpham
+{
+    width: 100%;
+    height: 150px;
+    background-color: grey;
+    margin: 10px;
+}

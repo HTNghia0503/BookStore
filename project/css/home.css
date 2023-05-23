@@ -1,0 +1,108 @@
+#boxcontent--dm{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+#boxcontent--dm a{
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+}
+
+.boxcontent li{
+    list-style-type: none;
+}
+
+.boxcontent a{
+    text-decoration: none;
+}
+
+.btn-login{
+    background-color: #001838;
+}
+/* nam.16Apr.start{*/
+.menudoc--time{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+/*  */
+.menudoc--time div{ 
+    /* border:1px solid blue; */
+    display: inline-block;
+    margin: 5% 0;    
+}
+/* the num of remaining times in month */
+.menudoc--time div:nth-child(3){
+    font-size: 40px;
+    font-weight: bold;
+}
+/* count down of remaining times in month */
+.menudoc--time #countTime{    
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+
+}
+.boxcontent div{
+    display: inline-block;
+    margin: 0 0;
+    padding: 3% 12%;
+    /* border: 1px solid red; */
+}
+.boxcontent--summary div{
+    display: inline-block;
+    padding: 0;
+    /* border: 1px solid blue; */
+}
+/* sum of each components tom tat */
+.boxcontent--sum{    
+    /* border: 1px solid red; */
+    font-weight: bold;
+}
+
+.boxAd{
+    text-align: center;
+    /* border: 1px solid red; */
+}
+.row_imgAFuntionAd + div{
+    display: none;
+}
+.boxAd:hover {
+    border: 4px solid #001838;
+    background-color: #AABDD9;
+}
+.boxAd:hover div:nth-child(2){
+    display: block;
+    margin: 10% 0;
+    font-size: large;
+    font-weight: bold;
+}
+
+.boxAFunction{
+    float: left;
+    width: 23%;
+    min-height: 200px;
+    border-bottom: 1px #EEE solid;
+    border-radius: 5px;
+    border: 1px #CCC solid;
+    height: 270px;
+    padding: 1% 0;
+    margin: 1% 1%;
+    text-align: center;
+
+}
+
+.row_imgAFuntionAd img{
+    width: auto;
+    height: 150px;
+    text-align: center;
+    align-items: normal;
+}
+
+.boxAFunction a{
+    text-decoration: none;
+    color: black; 
+}
+/*}nam.16Apr.end*/

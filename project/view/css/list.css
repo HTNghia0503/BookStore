@@ -1,0 +1,21 @@
+
+/* 1Mar2023 */
+.frmcontent{
+    text-align: center;
+}
+
+
+.frmdsloai {
+    /* border: 2px blue solid; */
+    text-align: center;
+    margin-left: 10%;
+    width: 50%;
+    
+}
+.frmdsloai table{
+    /* border: 2px blue solid; */
+    text-align: center;
+    margin-left: 100%;
+    width: 50%;
+    
+}

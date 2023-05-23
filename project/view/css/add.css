@@ -1,0 +1,20 @@
+
+.mb10 select{
+    font-size: 17px;
+    padding: 5px 5px;
+    margin: 0.7% 0;
+    width: 25%;
+    color: #001838;
+    border-radius: 5px;   
+    border: 1px #001838 solid;
+    background-color: lightgray;
+}
+.mb10 textarea{
+    font-size: 17px;
+    padding: 5px 5px;
+    margin: 0.7% 0;
+    width: 25%;
+    color: #001838;
+    border-radius: 5px;   
+    border: 1px #001838 solid;
+}
